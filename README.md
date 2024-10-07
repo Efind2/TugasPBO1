@@ -158,7 +158,7 @@ method yang ada di sini bisa diturun kan ke sub class dari makhluq hidup, tanpa 
     }
     
     }
-    pada kode tersebut saya mencoba memanggil semua method pada subclass untuk mengetahui fungsi pewarisan.
+pada kode tersebut saya mencoba memanggil semua method pada subclass untuk mengetahui fungsi pewarisan.
 Cukup itu yang dapat saya jelaskan semoga mudah dipahami 😁
 
 
